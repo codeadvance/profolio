@@ -23,5 +23,5 @@
 
 ## Projects
 ### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
-![Company's Simplified Revenue](/assets/Sample of Company's Revenue.jpeg) 
+![Company's Simplified Revenue](Sample of Company's Revenue) 
 
