@@ -22,6 +22,6 @@
 -Collected accurate data using MYSQL, Tableau, and Microsoft Power BI to perform data analysis to track the source of drought location and provided an innovative solution to resolve water and power shortage
 
 ## Projects
-### Data-Driven Microsoft Power BI & MYSQL with Company's Overall Revenue
-
+### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
+![Company's Simplified Revenue](/assets/Sample of Company's Revenue.jpeg) 
 
