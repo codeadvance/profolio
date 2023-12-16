@@ -29,5 +29,5 @@
 ![Company's Simplified Revenue](/assets/img/company revenue.png) 
 
 ### Automated Video Compiling And Video Creation In Python
-
+![A.I. Machine Automated Video](/assets/img/Automated Video Compiling.png) 
 
