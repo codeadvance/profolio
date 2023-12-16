@@ -8,9 +8,9 @@
 ### Work Experience 
 Engineering Data Analyst @ Enbridge Gas Inc.
 
-◦ Uncovered and corrected missing database, reports, and documents in existing pipeline infrastructure which impacted existing gas supply to residents
-◦ Communicated related stakeholders to eliminate the potential risks and hazards in existing infrastructure 
-◦ Analyzed the bill of materials (BOM) for pipeline construction to create integrity plans to identify integrity threats
+◦ Uncovered and corrected missing database, reports, and documents in existing pipeline infrastructure which impacted existing gas supply to residents\
+◦ Communicated related stakeholders to eliminate the potential risks and hazards in existing infrastructure\
+◦ Analyzed the bill of materials (BOM) for pipeline construction to create integrity plans to identify integrity threats\
 ◦ Developed inspection plans for gas stations to prepare and assess upcoming inspections to confirm they are safe for service
 
 Data Technician @ City of Toronto
