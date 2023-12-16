@@ -2,8 +2,8 @@
 #### Technical Skills: Python, AWS, Microsoft Power BI, MATLAB
 
 ### Education
-- BA., Engineering | The University of New Brunswick (May 2019)
-- Diploma, Business| The University of New Brunswick (May 2019)
+◦  BA., Engineering | The University of New Brunswick (May 2019)
+◦  Diploma, Business| The University of New Brunswick (May 2019)
 
 ### Work Experience 
 **Engineering Data Analyst @ Enbridge Gas Inc.
