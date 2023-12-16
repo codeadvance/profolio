@@ -15,9 +15,9 @@ Engineering Data Analyst @ Enbridge Gas Inc.
 
 Data Technician @ City of Toronto
 
-◦ Effectively managed the responsibilities of three team members during a staff shortage period, ensuring the smooth progress of projects and meeting critical deadlines
-◦ Performed quality control on 100+ multi-million projects to ensuring invoices were reconciled with the capital budgets to prevent over-budget spending
-◦ Design, implement, test and document new features of infrastructure through computer systems
+◦ Effectively managed the responsibilities of three team members during a staff shortage period, ensuring the smooth progress of projects and meeting critical deadlines__
+◦ Performed quality control on 100+ multi-million projects to ensuring invoices were reconciled with the capital budgets to prevent over-budget spending__
+◦ Design, implement, test and document new features of infrastructure through computer systems__
 
 Data Consultant & Technician @ AECOM
 
