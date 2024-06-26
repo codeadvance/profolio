@@ -39,10 +39,12 @@
 
 ## Projects
 ### Data-Driven Using MYSQL & Microsoft Power BI To Visualize Company's Overall Revenue
-![Company's Simplified Revenue](/assets/img/company revenue.png) 
+![image](https://github.com/codeadvance/profolio/assets/132302205/d0c9739a-cd5a-4e6e-9b25-e0b27e6206c2)
+
 
 ### Automated Video Compiling And Video Creation In Python
-![A.I. Machine Automated Video](/assets/img/Automated Video Compiling.png) 
+![image](https://github.com/codeadvance/profolio/assets/132302205/fac3b8a0-a1df-4817-b581-e175950c3a28)
+
 
 ### Education
 ▪ Toronto Institute of Data Science and Technology |  Data Science 2024
